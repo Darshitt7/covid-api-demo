@@ -1,0 +1,18 @@
+.footerx{
+    background-color: #17a2b8;
+    padding: 5px;
+    color: azure;
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+  
+}
+.footernav {
+    text-decoration: none;
+    color: azure;
+}
+.footernav:hover{
+    color:#00ddff;
+    
+}
